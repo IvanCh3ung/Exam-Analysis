@@ -1,0 +1,88 @@
+﻿CANVAS ID,DEPT,COURSE #,SECTION,YR,COURSE NAME,INSTR,TERM,STATUS,MODE,# STUD,MT DATE,MT TIME,MT LT,MT INVIG LT,MT NOTES,FE DATE,FE TIME,FE LT,FE INVIG LT,FE NOTES
+96599,ASTR,311,98A,3,ASTR 311 98A 2022S1-2 Exploring the Universe: Stars and Galaxies,"HEYL, JEREMY",2022S1-2,active,Online,102,NO MT,NO MT,NO MT,NO MT,,,,EdX,,
+94710,ATSC,113,971,1,ATSC 113 971/98A 2022S1 Applied Meteorology,"MCCOLLOR, DOUGLAS; STULL, ROLAND",2022S1,active,In-Person,28,05/28/2022,5:00 PM,Canvas (assignment),NONE,,06/28/2022,3:30 PM,In-Person,NONE,LIFE 2212
+,,,,,,,,,,,06/10/2022,,,,,,,,,
+94710,ATSC,113,98A,1,ATSC 113 971/98A 2022S1 Applied Meteorology,"MCCOLLOR, DOUGLAS; STULL, ROLAND",2022S1,active,Online,186,05/28/2022,5:00 PM,Canvas (assignment),NONE,,06/28/2022,3:30 PM,Canvas,Zoom,Online
+,,,,,,,,,,,06/10/2022,,,,,,,,,
+94749,BIOL,112,921,1,BIOL 112 921 2022S1 Biology of the Cell,"TAYLOR, JARED",2022S1,active,In-Person,178,6/7/2022,9:00 AM,In-Person,In-Person,,06/29/2022,3:30 PM,In-Person,NONE,HEBB 100
+98017,BIOL,112,Tutorial,1,BIOL 112 2022S1 Tutorial Biology of the Cell,TBA,2022S1,active,In-Person,178,NO MT,NO MT,NO MT,NO MT,,NO FINAL,NO FINAL,NONE,NONE,
+94748,BIOL,111,921,1,BIOL 111 921 2022S1 Introduction to Modern Biology,"DEE, JACLYN",2022S1,active,In-Person,93,6/2/2022,10:00 AM,In-Person,In-Person,,06/28/2022,3:30 PM,In-Person,NONE,SWNG 122
+94752,BIOL,234,921,2,BIOL 234 921 2022S1 Fundamentals of Genetics,"VAN WERSCH, SOLVEIG",2022S1,active,In-Person,74,05/30/2022,10:00 AM,In-Person,In-Person,,06/26/2022,12:00 PM,In-Person,NONE,IBLC 182
+,,,,,,,,,,,06/13/2022,,,,,,,,,
+94750,BIOL,200,921,2,BIOL 200 921 2022S1 Fundamentals of Cell Biology,"MOUSSAVI, MARYAM",2022S1,active,In-Person,109,6/2/2022,10:00 AM,In-Person,In-Person,,06/29/2022,12:00 PM,In-Person,NONE,BIOL 1000
+94753,BIOL,300,921,3,BIOL 300 921 2022S1 Fundamentals of Biostatistics,"FREEMAN, BENJAMIN",2022S1,active,In-Person,100,NO MT,NO MT,NO MT,NO MT,,06/30/2022,12:00 PM,In-Person,NONE,BIOL 1000
+94755,BIOL,371,921,3,BIOL 371 921 2022S1 Principles of Neurobiology I,"BALLAGH, IRENE",2022S1,active,In-Person,56,6/7/2022,10:00 AM,In-Person,In-Person,,06/28/2022,3:30 PM,In-Person,NONE,IRC 5
+94751,BIOL,230,921,2,BIOL 230 921 2022S1 Fundamentals of Ecology,"WILSON, RACHEL",2022S1,active,In-Person,36,05/30/2022,10:00 AM,In-Person,In-Person,,06/27/2022,12:00 PM,In-Person,NONE,LIFE 2202
+,,,,,,,,,,,06/13/2022,,,,,,,,,
+94754,BIOL,335,921,3,BIOL 335 921 2022S1 Molecular Genetics,"BEREZOWSKY, CRAIG M S",2022S1,active,In-Person,51,6/3/2022,10:00 AM,In-Person,In-Person,,06/26/2022,3:30 PM,In-Person,NONE,LIFE 2302
+97611,CHEM,115/121,ALL LABS,1,CHEM 115/CHEM 121 ALL LABS 2022S1 Introductory Chemical Laboratory I,TBA,2022S1,active,In-person,133,NO MT,NO MT,NO MT,NO MT,,NO FINAL,NO FINAL,NONE,NONE,
+95748,CHEM,225,Y1A,2,CHEM 225 Y1A 2022S1 Introductory Synthetic Chemical Laboratory,"CHANG, JUSTIN",2022S1,active,In-person,12,NO MT,NO MT,NO MT,NO MT,,NO FINAL,NO FINAL,NONE,NONE,
+94783,CHEM,121,921,1,CHEM 121 921 2022S1 Structure and Bonding in Chemistry,TBA,2022S1,active,In-Person,195,06/01/2022,10:30 AM,In-Person,In-Person,,06/26/2022,3:30 PM,In-Person,NONE,IRC 2
+,,,,,,,,,,,06/15/2022,,,,,,,,,
+94785,CHEM,235,ALL LABS,2,CHEM 235 ALL LABS 2022S1 Organic Chemistry Laboratory,TBA,2022S1,active,In-Person,137,NO MT,NO MT,NO MT,NO MT,,NO FINAL,NO FINAL,NONE,NONE,
+97989,CHEM,123,VL1/VL2,1,CHEM 123 VL1/VL2 VANTAGE LABS 2022S1 Structure and Bonding in Chemistry,"THOMAS, ANNE",2022S1,active,In-Person,49,NO MT,NO MT,NO MT,NO MT,,NO FINAL,NO FINAL,NONE,NONE,
+94784,CHEM,233,921,2,CHEM 233 921 2022S1 Organic Chemistry for the Biological Sciences,"RUEDA BECERRIL, MONTSERRAT",2022S1,active,In-Person,307,6/3/2022,12:30 PM,In-Person,In-Person,,06/27/2022,8:30 AM,In-Person,NONE,Alphabetical split:
+,,,,,,,,,,,,,,,,,,,,ABD-TAY --> IRC 2
+,,,,,,,,,,,,,,,,,,,,THI-ZHO --> IRC 5
+96711,CHEM,123,V01,1,"CHEM 123 V01 2022S1-2 Thermodynamics, Kinetics and Organic Chemistry","STIRCHAK, LAURA",2022S1-2,active,In-Person,49,05/31/2022,11:15 AM,In-Person,In-Person,,07/06/2022,TBD,TBD,TBD,
+,,,,,,,,,,,06/21/2022,,,,,,,,,
+97949,CHEM,445A/B/C,RLE,4,CHEM 445A/B/C RLE 2022S1-2 Projects in Experimental Chemistry - PROJCTS EXP CHEM,"BUSSIERE, GUILLAUME",2022S1-2,active,In-Person,4,NO MT,NO MT,NO MT,NO MT,,NO FINAL,NO FINAL,NONE,NONE,
+96732,COGS,402,923,3,COGS 402 923 2022S1-2 Research in Cognitive Systems,"MOLE, CHRISTOPHER",2022S1-2,active,In-Person,29,NO MT,NO MT,NO MT,NO MT,,NO FINAL,,,,
+97562,CPSC,330,911,3,CPSC 330 911 2022S1 Applied Machine Learning,"MEHRDAD, OVEISI-FORDOEI",2022S1,active,In-Person,133,6/3/2022,TBD,TBD,TBD,,06/28/2022,8:30 AM,NONE,NONE,CIRS 1250
+94868,CPSC,213,911,4,CPSC 213 911 2022S1 Introduction to Computer Systems,"JORDON, JOHNSON",2022S1,active,In-Person,106,TBD,TBD,TBD,TBD,,06/26/2022,12:00 PM,NONE,NONE,LIFE 2201
+94869,CPSC,221,911,4,CPSC 221 911 2022S1 Basic Algorithms and Data Structures,"TIEN, GEOFFREY",2022S1,active,In-Person,158,6/6/2022,1:30 PM,ONLINE,ONLINE,,06/30/2022,12:00 PM,NONE,NONE,CIRS 1250
+94866,CPSC,103,911,3,CPSC 103 911 2022S1 Introduction to Systematic Program Design,"ASHISH, CHOPRA",2022S1,active,In-Person,117,6/15/2022,7:00 PM,TBD,TBD,,06/28/2022,7:00 PM,NONE,NONE,BIOL 1000
+94871,CPSC,410,911,3,CPSC 410 911 2022S1 Advanced Software Engineering,"RITSCHEL, NICO",2022S1,active,In-Person,54,TBD,TBD,TBD,TBD,,06/30/2022,8:30 AM,NONE,,
+96751,CPSC,121,V01,3,CPSC 121 V01 2022S1-2 Models of Computation,"MEGHAN, ALLEN",2022S1-2,active,In-Person,71,6/7/2022,11:15 AM,TBD,TBD,,NO RESULTS,,NONE,NONE,LIFE 2302
+96760,CPSC,455,901,3,CPSC 455 901 2022S1-2 Applied Industry Practices,"KARRAS, DANYA",2022S1-2,active,In-Person,92,TBD,TBD,TBD,TBD,,,,,,
+,,,,,,"MAH, STEPHANIE",,,,,,,,,,,,,,
+,,,,,,"MCLEAN, IAN",,,,,,,,,,,,,,
+96750,CPSC,103,V01,,CPSC 103 V01 2022S1-2 Introduction to Systematic Program Design,,2022S1-2,active,,,,,,,,,,,,
+95001,ENPH,270,941,2,ENPH 270 941 2022S1 Mechanics II,"HASINOFF, MICHAEL",2022S1,active,In-Person,64,TBD,TBD,TBD,TBD,,NO RESULTS,,,,
+96845,ENPH,253,941,5,ENPH 253 941 2022S1-2 Introduction to Instrument Design,"GUNN, DLYAN",2022S1-2,active,In-Person,64,TBD,TBD,TBD,TBD,,NO RESULTS,,,,
+,,,,,,"MAEZIALI, ANDRE",,,,,,,,,,,,,,
+95002,ENVR,420,971,3,ENVR 420 971 2022S1 Ecohydrology of Watersheds and Water Systems,"JOHNSON, MARK",2022S1,active,In-Person,12,TBD,TBD,TBD,TBD,Two midterms ->,NO RESULTS,,,,
+,,,,,,"D'ACUNHA, BRENDA",,,,,,,,,Time TBD,,,,,
+96851,EOSC,116,98A,3,EOSC 116 98A 2022S1 Mesozoic Earth: Time of the Dinosaurs.,"LONGRIDGE, LOUISE",2022S1,active,Online,242,TBD,TBD,TBD,TBD,Three quizzes ->,06/26/2022,8:30 AM,Canvas Classic Quiz,Respondus Lockdown Browser,IRC 2
+,,,,,,,,,,,,,,,Time TBD,,,,,
+95005,EOSC,326,98A,3,EOSC 326 98A 2022S1 Earth and Life Through Time,"LONGRIDGE, LOUISE",2022S1,active,Online,69,TBD,TBD,TBD,TBD,Two midterms ->,06/28/2022,8:30 AM,Canvas Classic Quiz,Respondus Lockdown Browser,IBLA 182
+,,,,,,,,,,,,,,,Time TBD,,,,,
+95004,EOSC,311,98A,3,EOSC 311 98A 2022S1 The Earth and its Resources,"PORRITT, LUCY",2022S1,active,Online,82,TBD,TBD,TBD,TBD,Five quizzes ->,06/27/2022,12:00 PM,Canvas Classic Quiz,Zoom + Respondus Lockdown Browser,
+,,,,,,,,,,,,,,,Time TBD,,,,,
+96852,EOSC,118,98A,3,EOSC 118 98A 2022S1-2 Earth's Treasures: Gold and Gems,"EVANS, ROBERT JAMES",2022S1-2,active,Online,166,TBD,TBD,TBD,TBD,Three quizzes ->,NO RESULTS,,,,
+,,,,,,,,,,,,,,,Time TBD,,,,,
+96850,EOSC,114,98A,3,EOSC 114 98A 2022S1-2 The Catastrophic Earth: Natural Disasters,LEAH MAY VER,2022S1-2,active,In-Person,0,NO MT,NO MT,NO MT,NO MT,,NO RESULTS,,,,
+96854,EOSC,315,98A,3,EOSC 315 98A 2022S1-2 The Ocean Ecosystem,"LIPSEN, MICHAEL",2022S1-2,active,Online,67,TBD,TBD,TBD,TBD,Six quizzes ->,NO RESULTS,,,,
+,,,,,,,,,,,,,,,Time TBD,,,,,
+96853,EOSC,310,98A,3,EOSC 310 98A 2022S1-2 The Earth and the Solar System,"QADRI, S.M. TALHA",2022S1-2,active,Online,98,TBD,TBD,TBD,TBD,Two midterms ->,NO RESULTS,,,,
+,,,,,,,,,,,,,,,Time TBD,,,,,
+95131,ISCI,361,101,3,ISCI 361 101 2022S1 Field Course: Systems Approaches to Regional Sustainability,"GABRIEL, DENISE",2022S1,active,Online,N/A,TBD,TBD,TBD,TBD,Nine quizzes ->,06/27/2022,8:30 AM,NONE,NONE,BUCH B208
+,,,,,,"QUANE, STEVE",,,,,,,,,Time TBD,,,,,
+95212,MATH,221,921,,MATH 221 921 2022S1 Matrix Algebra,"GAI, CHUNYI",2022S1,active,In-Person,114,6/1/2022,2:00 PM,In-Person,In-Person,,,,,,
+,,,,,,,,,,,6/15/2022,,,,,,,,,
+98608,MATH,215/255,Webwork and Piazza,,Math 215/255: Webwork and Piazza,,2022S1,active,,,Nothing on Canvas yet,,,,,,,,,
+95211,MATH,215,921,,MATH 215 921 2022S1 Elementary Differential Equations I,,2022S1,active,,,Nothing on Canvas yet,,,,,,,,,
+95214,MATH,255,921,,MATH 255 921 2022S1 Ordinary Differential Equations,,2022S1,active,,,Nothing on Canvas yet,,,,,,,,,
+95208,MATH,100,92A,,MATH 100 92A 2022S1 Differential Calculus with Applications to Physical Sciences and Engineering,"OLLIVIER, RACHEL",2022S1,active,In-Person,128,6/1/2022,2:00 PM,In-Person,In-Person,,,,,,
+95210,MATH,200,921,,MATH 200 921 2022S1 Calculus III,"MILLER, EVAN",2022S1,active,In-Person,114,6/8/2022,10:00 AM,In-Person,In-Person,,,,,,
+95215,MATH,257/316,921,,MATH 257/316 921 2022S1 Partial Differential Equations,"DANESHI, MASOUD",2022S1,active,In-Person,59,6/13/2022,10:30 AM,In-Person,In-Person,,,,,,
+95213,MATH,253,921,,MATH 253 921 2022S1 Multivariable Calculus,"MACDONALD, COLIN",2022S1,active,In-Person,134,6/1/2022,10:00 AM,In-Person,In-Person,,,,,,
+,,,,,,,,,,,6/15/2022,,,,,,,,,
+95209,MATH,100,92C,,MATH 100 92C 2022S1 Differential Calculus with Applications to Physical Sciences and Engineering,"WANG, ZHICHAO",2022S1,active,In-Person,105,6/2/2022,1:00 PM,In-Person,In-Person,,,,,,
+,,,,,,,,,,,6/16/2022,,,,,,,,,
+95217,MATH,307,921,,MATH 307 921 2022S1 Applied Linear Algebra,"WALLS, PATRICK",2022S1,active,In-Person,99,6/2/2022,1:00 PM,In-Person,In-Person,,,,,,
+,,,,,,,,,,,6/16/2022,,,,,,,,,
+95235,MICB,322,921,,MICB 322 921 2022S1 Molecular Microbiology Laboratory,"SIBLEY, JENNIFER",2022S1,active,In-person,30,NO MT,NO MT,NO MT,NO MT,,,,,,
+95234,MICB,201,921,,MICB 201 921 2022S1 Introductory Environmental Microbiology,"SUN, EVELYN",2022S1,active,In-person,48,6/7/2022,TBA,In-Person,In-Person,,,,,,
+95328,PHYS,119,ALL LABS,,PHYS 119 ALL LABS 2022S1 Experimental Physics Lab I,"IVES, JOSS",2022S1,active,In-person,41,NO MT,NO MT,NO MT,NO MT,,,,,,
+95330,PHYS,131,921,,PHYS 131 921 2022S1 Energy and Waves (Lecture),"NASSERI, SEYED ALI",2022S1,active,In-person,186,NO MT,NO MT,NO MT,NO MT,,,,,,
+95327,PHYS,100,981,,PHYS 100 981 2022S1 Introductory Physics,"REZAIE, ERFAN",2022S1,active,Online,196,6/8/2022,12:00 PM,Canvas (Quiz),NONE,,,,,,
+95331,PHYS,203,941,,PHYS 203 941 2022S1 Thermal Physics I,"FOLK, JOSHUA",2022S1,active,In-person,77,NO MT,NO MT,NO MT,NO MT,,,,,,
+97294,PHYS,118,V01,,"PHYS 118 V01 2022S1-2 Electricity, Light and Radiation","RIEGER, GEORG",2022S1-2,active,In-person,49,NO MT,NO MT,NO MT,NO MT,,,,,,
+97295,PHYS,250,941,,PHYS 250 Introduction to Modern Physics 941 2022S1-2,"MATTISON, THOMAS",2022S1-2,active,In-person,77,6/8/2022,4:00 PM,In-Person,In-Person,,,,,,
+,,,,,,,,,,,6/26/2022,11:00 AM,,,,,,,,
+95418,STAT,251,921,,STAT 251 921 2022S1 Elementary Statistics,"WIJENDRA ACHARIGE,",2022S1,active,In-person,204,6/7/2022,6:00 PM,In-Person,In-Person,,,,,,
+,,,,,,LASANTHA PREMARATHNA,,,,,,,,,,,,,,
+98113,STAT,548C,1,,STAT 548C 001 2022S1 Directed Studies in Statistics - DIRECTED STUDIES,"BOUCHARD-COTE, ALEXANDRE",2022S1,active,In-person,3,NO MT,NO MT,NO MT,NO MT,,,,,,
+,,,,,,"CAMPBELL, TREVOR",,,,,,,,,,,,,,
+95419,STAT,302,921,,STAT 302 921 2022S1 Introduction to Probability,"BURR, BENJAMIN",2022S1,active,In-person,122,6/7/2022,10:00 AM,In-Person,In-Person,,,,,,

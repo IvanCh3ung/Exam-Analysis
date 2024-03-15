@@ -1,0 +1,63 @@
+﻿CANVAS ID,DEPT,COURSE #,COURSE NAME,INSTR,# STUD,MODE,TERM,STATUS,MT DATE,MT TIME,MT LT,MT INVIG LT,MT NOTES,FE DATE,FE TIME,FE LT,FE INVIG LT,FE NOTES
+96599,ASTR,ASTR 311 98A 2022S1-2,ASTR 311 98A 2022S1-2 Exploring the Universe: Stars and Galaxies,"HEYL, JEREMY",66,Online,2022S1-2,active,NO MT,NO MT,NO MT,NO MT,,,,EdX,,
+95717,BIOL,BIOL 204 951 2022S2,BIOL 204 951 2022S2 Vertebrate Structure and Function,"FUNG, CHARISSA",39,In-Person,2022S2,active,07/22/2022,9:00 AM,In-Person,In-Person,,08/18/2022,12:00 PM,In-Person,In-Person,LIFE 2302
+95720,BIOL,BIOL 363 951 2022S2,BIOL 363 951 2022S2 Laboratory in Animal Physiology,"LACOMBE, AGNES",14,In-Person,2022S2,active,NO MT,NO MT,NO MT,NO MT,only lab quizzes,08/16/2022,8:30 AM,In-Person,In-Person,LIFE 2212
+,,,,,,,,,,,,,+ assignments,,,,,
+,,,,,,,,,,,,,+ lab notebook,,,,,
+95716,BIOL,BIOL 121 951 2022S2,"BIOL 121 951 2022S2 Genetics, Evolution and Ecology","GARZKE, JESSICA",108,In-Person,2022S2,active,07/20/2022,2:00 PM,In-Person,In-Person,,08/17/2022,8:30 AM,In-Person,In-Person,BIOL 1000
+,,,,,,,,,08/03/2022,,,,,,,,,
+97751,BIOL,BIOL 320 951 2022S2,BIOL 320 951 2022S2 Survey of Algae,"CLARKSTON, BRIDGETTE",18,In-Person,2022S2,active,"1 lecture MT,1",lecture: 10:00 AM,In-Person,In-Person,,08/17/2022,3:30 PM,In-Person,In-Person,LIFE 2212
+,,,,,,,,,lab MT both on,lab: 1:00 PM,,,,,,,,
+,,,,,,,,,07/20/2022,,,,,,,,,
+95718,BIOL,BIOL 260 951 2022S2,BIOL 260 951 2022S2 Fundamentals of Physiology,"DONNELLY, CAITLIN",67,In-Person,2022S2,active,07/26/2022,10:00 AM,In-Person,In-Person,,08/17/2022,12:00 PM,In-Person,In-Person,IBLC 182
+95719,BIOL,BIOL 336 951 2022S2,BIOL 336 951 2022S2 Fundamentals of Evolutionary Biology,"BAZZICALUPO, ANNA",74,In-Person,2022S2,active,07/20/2022,10:00 AM,In-Person,In-Person,,08/19/2022,8:30 AM,In-Person,In-Person,IBLC 182
+96711,CHEM,CHEM 123 V01 2022S1-2,"CHEM 123 V01 2022S1-2 Thermodynamics, Kinetics and Organic Chemistry","STIRCHAK, LAURA",49,In-Person,2022S1-2,active,05/31/2022,11:15 AM,In-Person,In-Person,,07/06/2022,TBD,TBD,TBD,
+,,,,,,,,,06/21/2022,,,,,,,,,
+97949,CHEM,CHEM 445A/B/C RLE 2022S1-2,CHEM 445A/B/C RLE 2022S1-2 Projects in Experimental Chemistry - PROJCTS EXP CHEM,"BUSSIERE, GUILLAUME",5,In-Person,2022S1-2,active,NO MT,NO MT,NO MT,NO MT,,NO FINAL,NO FINAL,NO FINAL,NO FINAL,
+97959,CHEM,CHEM 123 921 2022S2,"CHEM 123 921 2022S2 Thermodynamics, Kinetics and Organic Chemistry","KIL, RICHARD",135,In-Person,2022S2,active,07/25/2022,10:30 AM,In-Person,In-Person,individual part +,08/15/2022,8:30 AM,In-Person,In-Person,LIFE 2201
+,,,,,,,,,,,,,group part on MT,,,,,
+98151,CHEM,CHEM 123/CHEM 135 ALL LABS 2022S2,CHEM 123/CHEM 135 ALL LABS 2022S2,"RAHEEM, NIGARE",206,In-Person,2022S2,active,NO MT,NO MT,NO MT,NO MT,,NO FINAL,NO FINAL,NO FINAL,NO FINAL,
+96732,COGS,COGS 402 923 2022S1-2,COGS 402 923 2022S1-2 Research in Cognitive Systems,"MOLE, CHRISTOPHER",28,In-Person,2022S1-2,active,NO MT,,,,,NO FINAL,,,,
+96751,CPSC,CPSC 121 V01 2022S1-2,CPSC 121 V01 2022S1-2 Models of Computation,"HOSSENI, SEYYED",28,IN-Person,2022S1-2,active,7/25/2022,11:00 AM,TBA,IN-PERSON,,,,,,
+96760,CPSC,CPSC 455 901 2022S1-2,CPSC 455 901 2022S1-2 Applied Industry Practices,"KARRAS, DANYA",92,IN-Person,2022S1-2,active,Can't locate/access,,,,,NO FINAL,,,,
+,,,,"MAH, STEPHANIE",,,,,,,,,,,,,,
+,,,,"MCLEAN, IAN",,,,,,,,,,,,,,
+96750,CPSC,CPSC 103 V01 2022S1-2,CPSC 103 V01 2022S1-2 Introduction to Systematic Program Design,"CHOOPRA, ASHISH",114,IN-Person,2022S1-2,active,6/7/2022 (typo?),5:00 PM,In-Person,TBA,"June 7 is 1st term course, not second. Might be an error",,,,,
+95796,CPSC,CPSC 100 921 2022S2,CPSC 100 921 2022S2 Computational Thinking,"BLOK, HENDRIK",84,IN-Person,2022S2,active,7/26/2022,1:30 PM,In-Person,IN-PERSON,,08/16/2022,3:30 PM,In-Person,In-Person,CPSC100
+95798,CPSC,CPSC 210 921 2022S2,CPSC 210 921 2022S2 Software Construction,"GRUND, FELIX",160,IN-Person,2022S2,active,Can't access,,,,,08/18/2022,12:00 PM,In-Person,In-Person,CPSC210
+97569,CPSC,CPSC 304 921 2022S2,CPSC 304 921 2022S2 Introduction to Relational Databases,"GREORGE, GITTU",152,IN-Person,2022S2,active,7/25/2022,1:30 PM,IN-PERSON,IN-PERSON,,08/15/2022,8:30 AM,In-Person,In-Person,CPSC304
+95799,CPSC,CPSC 322 921 2022S2,CPSC 322 921 2022S2 Introduction to Artificial Intelligence,"JOHNSON, JORDON",138,IN-Person,2022S2,active,TBD,TBD,TBD,TBD,,08/19/2022,3:30 PM,In-Person,In-Person,CPSC322
+95797,CPSC,CPSC 121 921 2022S2,CPSC 121 921 2022S2 Models of Computation,"HOSSENI, SEYYED",90,IN-Person,2022S2,active,7/25/2022,1:00 PM,In-Person,TBA,,08/17/2022,8:30 AM,In-Person,In-Person,CPSC121
+95817,DSCI,DSCI 100 002 2022S2,DSCI 100 002 2022S2 Introduction to Data Science,"CHEN, DANIEL",116,IN-Person,2022S2,active,3 quizzes:,10:30 AM for all,In-Person,,,,,,,
+,,,,,,,,,6/2/2022,,,,,,,,,
+,,,,,,,,,6/16/2022,,,,,,,,,
+,,,,,,,,,TBD,,,,,,,,,
+96845,ENPH,ENPH 253 941 2022S1-2,ENPH 253 941 2022S1-2 Introduction to Instrument Design,"GUNN, DLYAN",64,IN-Person,2022S1-2,active,NO MT,NO MT,NO MT,NO MT,,NO FINAL,,,,
+,,,,"MARZIALI, ANDRE",,,,,,,,,,,,,,
+96854,EOSC,EOSC 315 98A 2022S1-2,EOSC 315 98A 2022S1-2 The Ocean Ecosystem,"LIPSEN, MICHAEL",64,IN-Person,2022S1-2,active,NO MT (6 QUIZZES),,,,,08/16/2022,3:30 PM,In-Person,In-Person,EOSC315
+,,,,"BAHL, ALEXIS",,,,,,,,,,,,,,
+,,,,"GILL, KATHLEEN",,,,,,,,,,,,,,
+96853,EOSC,EOSC 310 98A 2022S1-2,EOSC 310 98A 2022S1-2 The Earth and the Solar System,"QADRI, S.M., TALHA",96,IN-Person,2022S1-2,active,Two MTs,date TBD,,,,08/17/2022,8:30 AM,In-Person,In-Person,EOSC310
+,,,,"JACKSTEIT, ANYA",,,,,,,,,,,,,,
+96850,EOSC,EOSC 114 98A 2022S1-2,EOSC 114 98A 2022S1-2 The Catastrophic Earth: Natural Disasters,NO STUDENTS IN COURSE,,,2022S1-2,active,NO MT (6 QUIZZES),,,,,08/15/2022,8:30 AM,In-Person,In-Person,EOSC114
+96852,EOSC,EOSC 118 98A 2022S1-2,EOSC 118 98A 2022S1-2 Earth's Treasures: Gold and Gems,"EVANS, ROBERT JAES",155,IN-Person,2022S1-2,active,NO MT (3 QUIZZES),,,,,08/16/2022,8:30 AM,In-Person,In-Person,EOSC118
+,,,,"BREASLEY, CATRIONA",,,,,,,,,,,,,,
+,,,,"JANSSEN, JOSEPH",,,,,,,,,,,,,,
+96122,MATH,MATH 101 95A/95C 2022S2,MATH 101 95A/95C 2022S2 Integral Calculus with Applications to Physical Sciences and Engineering,"ACCOMAZZO SCOTTI, NATALIA, ALINIAEIFARD, FARID",224,In-Person,2022S2,active,7/29/2022,10:00 AM (95A),In-Person,In-Person,,08/15/2022,3:30 PM,In-Person,In-Person,MATH101
+,,,,,,,,,,1:00 PM (95C),,,,,,,,
+96124,MATH,MATH 300 951 2022S2,MATH 300 951 2022S2 Introduction to Complex Variables,"REICHSTEIN, ZINOVY",67,In-Person,2022S2,active,NO MT,NO MT,NO MT,NO MT,,08/17/2022,3:30 PM,In-Person,In-Person,MATH300
+96123,MATH,MATH 220 951 2022S2,MATH 220 951 2022S2 Mathematical Proof,"BOYLE, KEEGAN",71,In-Person,2022S2,active,7/27/2022,11:00 AM,In-Person,In-Person,,08/18/2022,8:30 AM,In-Person,In-Person,MATH220
+,,,,"OLLIVIER, RACHEL",,,,,,,,,,,,,,
+96126,MATH,MATH 317 951 2022S2,MATH 317 951 2022S2 Calculus IV,"ZHANG, LIWEI",70,In-Person,2022S2,active,7/21/2022,3:00 PM,In-Person,In-Person,,08/16/2022,8:30 AM,In-Person,In-Person,MATH317
+98349,MATH,MATH 302 951 2022S2,MATH 302 951 2022S2 Introduction to Probability,"PLAN, YANIV",79,In-Person,2022S2,active,7/27/2022,3:00 PM,In-Person,In-Person,,08/19/2022,8:30 AM,In-Person,In-Person,MATH302
+96138,MICB,MICB 202 971 2022S2,MICB 202 971 2022S2 Introductory Medical Microbiology and Immunology,"KION, TRACY",61,In-Person,2022S2,active,7/18/2022,12:00 PM,In-Person,In-Person,,08/15/2022,8:30 AM,In-Person,In-Person,MICB202
+96139,MICB,MICB 323 971 2022S2,MICB 323 971 2022S2 Molecular Immunology and Virology Laboratory,"GRAVES, MARCIA",23,In-Person,2022S2,active,NO MT,NO MT,NO MT,NO MT,,08/16/2022,8:30 AM,In-Person,In-Person,MICB323
+97294,PHYS,PHYS 118 V01 2022S1-2,"PHYS 118 V01 2022S1-2 Electricity, Light and Radiation","RIEGER, GEORG",49,In-Person,2022S1-2,active,,Course section not on Canvas,,,,08/18/2022,12:00 PM,In-Person,In-Person,PHYS118
+97295,PHYS,PHYS 250 941 2022S1-2,PHYS 250 Introduction to Modern Physics 941 2022S1-2,"MATTISON, THOMAS",75,In-Person,2022S1-2,active,6/8/2022,4:00 PM (MT1),In-Person,In-Person,,N/A,,,,
+,,,,,,,,,7/11/2022,11:00 AM (MT2),,,,,,,,
+96217,PHYS,PHYS 118 952 2022S2,"PHYS 118 952 2022S2 Electricity, Light and Radiation","LITINSKAYA, MARINA",162,In-Person,2022S2,active,NO MT,NO MT,NO MT,NO MT,,08/18/2022,12:00 PM,In-Person,In-Person,PHYS118
+96275,STAT,STAT 200 921 2022S2,STAT 200 921 2022S2 Elementary Statistics for Applications,"YU, HOI YIN EUGENIA",87,In-Person,2022S2,active,7/29/2022,10:30 AM,In-Person,In-Person,,08/19/2022,3:30 PM,In-Person,In-Person,STAT200
+96276,STAT,STAT 201 202 2022S2,STAT 201 202 2022S2 Statistical Inference for Data Science,"LEE, MELISSA",121,In-Person,2022S2,active,7/21/2022,1:30 PM,In-Person,In-Person,,08/17/2022,8:30 AM,In-Person,In-Person,STAT201
+,,,,,,,,,8/8/2022,,,,,,,,,
+96278,STAT,STAT 306 201 2022S2,STAT 306 201 2022S2 Finding Relationships in Data,"BURR, BENJAMIN",46,In-Person,2022S2,active,7/28/2022,9:00 AM,In-Person,In-Person,,08/15/2022,3:30 PM,In-Person,In-Person,STAT306
+96277,STAT,STAT 305 001 2022S2,STAT 305 001 2022S2 Introduction to Statistical Inference,"CHRISTIDIS, ANTHONY-ALEXANDER",78,In-Person,2022S2,active,7/25/2022,9:00 AM,In-Person,In-Person,,08/18/2022,3:30 PM,In-Person,In-Person,STAT305
